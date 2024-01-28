@@ -1,4 +1,4 @@
 # class-task
-define the class
-iniate an object
-access the static property and method
+1.defined the class.
+2.iniate an object.
+3.accessed the static property and method.
